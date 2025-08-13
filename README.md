@@ -38,14 +38,13 @@ I specialize in both frontend and backend development, using a variety of techno
 ---
 
 ### 📂 My Projects
-
 [![Airdnd Screenshot](871e4923-0467-49d5-ab78-06fde437a4bc.png)](https://airdnd-w3rd.onrender.com/)
-### Airdnd, Inspired by Airbnb.
+ Airdnd, Inspired by Airbnb.
+
 
 
  
 [![Mail Project Screenshot](07740474-67c4-4545-8d81-5f7c4b9fcd8e.png)](https://oferkoren.github.io/appsus-proj/#/mail?status=inbox)
-
-### Mail, Inspired by Gmail.
+ Mail, Inspired by Gmail.
 
 
