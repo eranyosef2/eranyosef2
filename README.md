@@ -29,6 +29,7 @@ I specialize in both frontend and backend development, using a variety of techno
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
 </p>
 
+
 ---
 
 ### 📫 Contact Me
