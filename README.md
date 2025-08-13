@@ -40,7 +40,7 @@ I specialize in both frontend and backend development, using a variety of techno
 
 ### 📂 My Projects
 [![Airdnd Screenshot](871e4923-0467-49d5-ab78-06fde437a4bc.png)](https://airdnd-w3rd.onrender.com/)
- Airdnd, Inspired by Airbnb.
+ Airdnd, Inspired by Airbnb. (Make sure to sign up/use demo login to make the full functionality work)
 
 
 
