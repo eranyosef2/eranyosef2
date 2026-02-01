@@ -48,4 +48,7 @@ I specialize in both frontend and backend development, using a variety of techno
 [![Mail Project Screenshot](07740474-67c4-4545-8d81-5f7c4b9fcd8e.png)](https://oferkoren.github.io/appsus-proj/#/mail?status=inbox)
  Mail, Inspired by Gmail.
 
+[![Portfolio Screenshot](portfolio.png)](https://eranyosef2.github.io/Portfolio/)
+Portfolio – Personal portfolio site built with Next.js, React, and Tailwind CSS.
+
 
