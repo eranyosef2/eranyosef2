@@ -7,7 +7,7 @@
 I'm a **Full Stack Developer** with a passion for building modern web applications.  
 I specialize in both frontend and backend development, using a variety of technologies to create scalable and efficient solutions.
 
-- 💻 Skilled in **JavaScript, HTML, CSS**, and frameworks like **React.js, Next.js.**  
+- 💻 Skilled in **JavaScript,Typescript, Tailwind**, and frameworks like **React.js, Next.js.**  
 - ⚡ Backend expertise in **Node.js, REST APIs, and Sockets**  
 - 📚 Continuously learning with a focus on **impact and quality**  
 
